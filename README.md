@@ -1,5 +1,5 @@
 # ArcEngineMap
-使用ArcEngine的桌面应用
+使用ArcEngine进行二次开发的桌面应用
 
 支持shp/mxd文件读入
 
