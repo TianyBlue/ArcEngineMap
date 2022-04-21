@@ -1,0 +1,12 @@
+C:\Users\SkyLake.LAPTOP-0HDAHAFV\source\repos\WHUSoftware\WHUSoftware\bin\Debug\WHUSoftware.exe
+C:\Users\SkyLake.LAPTOP-0HDAHAFV\source\repos\WHUSoftware\WHUSoftware\bin\Debug\WHUSoftware.pdb
+C:\Users\SkyLake.LAPTOP-0HDAHAFV\source\repos\WHUSoftware\WHUSoftware\bin\Debug\ESRI.ArcGIS.AxControls.dll
+C:\Users\SkyLake.LAPTOP-0HDAHAFV\source\repos\WHUSoftware\WHUSoftware\bin\Debug\ESRI.ArcGIS.Version.dll
+C:\Users\SkyLake.LAPTOP-0HDAHAFV\source\repos\WHUSoftware\WHUSoftware\obj\Debug\WHUSoftware.csprojAssemblyReference.cache
+C:\Users\SkyLake.LAPTOP-0HDAHAFV\source\repos\WHUSoftware\WHUSoftware\obj\Debug\WHUSoftware.Form1.resources
+C:\Users\SkyLake.LAPTOP-0HDAHAFV\source\repos\WHUSoftware\WHUSoftware\obj\Debug\WHUSoftware.Properties.Resources.resources
+C:\Users\SkyLake.LAPTOP-0HDAHAFV\source\repos\WHUSoftware\WHUSoftware\obj\Debug\WHUSoftware.csproj.GenerateResource.cache
+C:\Users\SkyLake.LAPTOP-0HDAHAFV\source\repos\WHUSoftware\WHUSoftware\obj\Debug\WHUSoftware.csproj.CoreCompileInputs.cache
+C:\Users\SkyLake.LAPTOP-0HDAHAFV\source\repos\WHUSoftware\WHUSoftware\obj\Debug\WHUSoftware.csproj.CopyComplete
+C:\Users\SkyLake.LAPTOP-0HDAHAFV\source\repos\WHUSoftware\WHUSoftware\obj\Debug\WHUSoftware.exe
+C:\Users\SkyLake.LAPTOP-0HDAHAFV\source\repos\WHUSoftware\WHUSoftware\obj\Debug\WHUSoftware.pdb
